@@ -1,0 +1,60 @@
+/* * {
+    border: 2px solid black;
+} */
+
+.card {
+    border: none;
+}
+
+div > img {
+    width: 66px !important;
+    height: 66px;
+    display: block;
+    margin: 0 auto;
+}
+
+.card-title {
+    text-align: center;
+}
+
+
+
+element.style {
+    background-image: url(https://cdn3.mygazeta.com/i/2014/12/awucv0x-Imgur.jpg);
+}
+.profile-banner-large {
+    height: 370px;
+}
+.bg-img {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.btn-outline-primary {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: none;
+}
+
+#profile-banner_title {
+    font-family: 'Dancing Script', cursive;
+    color: whitesmoke;
+    text-align: center;
+    font-weight: 700;
+    font-size: 120px;
+    opacity: 0.9;
+}
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card-img-top {
+    width: 50% !important;
+    height: 50% !important;
+    border-radius: 50%;
+}
+

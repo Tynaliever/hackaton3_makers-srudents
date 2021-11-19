@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "name": "Bahtiyar",
+      "surname": "Il'yazov",
+      "image": "https://wl-adme.cf.tsp.li/resize/728x/jpg/72a/ea0/057bce523498aa17e4f3a9d074.jpg",
+      "phone": "997550444312",
+      "weekTest": "99",
+      "check": "78",
+      "id": 3
+    },
+    {
+      "name": "Erbol",
+      "surname": "Tynaliev",
+      "image": "https://vokrug.tv/pic/news/9/f/4/6/9f466307ab9f357c0db710631834bc95.jpg",
+      "phone": "996703303274",
+      "weekTest": "88",
+      "check": "78",
+      "id": 4
+    },
+    {
+      "name": "Ahmed",
+      "surname": "Radzhabov",
+      "image": "https://russia-dropshipping.ru/800/600/https/files.adme.ru/files/news/part_165/1658265/8881915-41015510-3-0-1514194738-1514194747-1500-1-1514194747-650-bf931488f4-1514279441.jpg",
+      "phone": "996708333555",
+      "weekTest": "100",
+      "check": "15",
+      "id": 5
+    },
+    {
+      "name": "Pavel",
+      "surname": "Novikov",
+      "image": "https://wl-adme.cf.tsp.li/resize/728x/jpg/089/129/0433cf5d538803257c736925ca.jpg",
+      "phone": "996555876112",
+      "weekTest": "99",
+      "check": "57",
+      "id": 6
+    }
+  ]
+}
